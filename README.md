@@ -1,5 +1,7 @@
 # testprojectvue
 
+Версия node - v17.6.0;
+
 ## Project setup
 ```
 npm install
